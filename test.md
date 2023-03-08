@@ -15,3 +15,4 @@
 15. fetch 테스트2
 16. fetch 테스트3
 17. fetch 테스트4
+18. test6
